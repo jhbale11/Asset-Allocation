@@ -1,4 +1,4 @@
-# SampleAssetAllocation
+# Asset-Allocation
 
 @jhbale11
 These are backtesting codes for asset allocation strategies.
