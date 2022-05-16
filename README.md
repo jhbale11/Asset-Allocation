@@ -23,8 +23,8 @@ Explanation : [jhbale11_velog](https://velog.io/@jhbale11)
 ## List of Asset Allocation Strategy (Tactical)
 
 - Sector Rotation (with Dual Momentum)
-- (Done) DAA (Defensive Asset Allocation)
-- (Done) VAA (Vigilant Asset Allocation)
+- **(Done)** DAA (Defensive Asset Allocation)
+- **(Done)** VAA (Vigilant Asset Allocation)
 - Bond Momentum (High Yield, Convertible Bond, Inter-term Treasury Momentum)
 
 ## Special (with leverage, option, futures, ...) ETFs
