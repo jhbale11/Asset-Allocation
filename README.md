@@ -8,7 +8,7 @@ Explanation : [jhbale11_velog](https://velog.io/@jhbale11)
 ## List of Asset Allocation Strategy (Static)
 ### Warning: In some cases, I used monthly return data in each backtest, when the values such as volatility and sharpe ratio calculated by the quantstat library were not converted on an annual basis. So it can be temporarily divided into sqrt(252/12) to convert it on an annual basis.
 
-- 60/40
+- **(Done)** 60/40
 - Core Four
 - Four Funds
 - Three Funds
