@@ -18,7 +18,7 @@ Explanation : [jhbale11_velog](https://velog.io/@jhbale11)
 - Yale (David Swensen) Portfolio
 - Endowment Index by ETF
 - New All Seasons (all seasons without nominal bond)
-- All Seasons with Crypto (1%, 1.5%, 3%, 6% crypto)
+
 
 ## List of Asset Allocation Strategy (Tactical)
 
