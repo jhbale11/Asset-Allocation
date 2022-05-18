@@ -13,7 +13,7 @@ Explanation : [jhbale11_velog](https://velog.io/@jhbale11)
 - Four Funds
 - Three Funds
 - Harry Browne's Permanent Portfolio
-- Tyler's Golden Butterfly
+- **(DONE)** Tyler's Golden Butterfly
 - Ray Dalio's All Seasons
 - Yale (David Swensen) Portfolio
 - Endowment Index by ETF
